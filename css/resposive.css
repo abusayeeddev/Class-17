@@ -1,0 +1,257 @@
+/* Large devices  */
+@media (max-width: 1199.98px) { 
+
+}
+/* Medium devices  */
+@media (max-width: 991.98px) { 
+
+}
+
+
+/* Small devices  */
+@media (max-width: 767.98px) {  }
+
+
+/* Extra small devices  */
+@media (max-width: 575.98px) {
+
+/* =========header menu section start======  */
+
+    .buttom a{
+        font-size: 16px;
+        padding: 5px 10px;
+    }
+    .navbar-toggler i{
+        color: #ffffff;
+    }
+    .navbar-nav {
+        text-align: center;
+        background: #FD3A5C;
+        border-radius: 20px;
+    }
+    .nav-item a:hover{
+        color: #191919;
+    }
+    .navbar-right{
+        text-align: center;
+        background: #FD3A5C;
+        border-radius: 20px;
+        padding: 10px 0;
+    }
+
+/* =========header menu section end======  */
+
+/* =========benner  section start======  */
+    .benner h3{
+        font-size: 20px;
+        padding: 150px 0 20px;
+    }
+    .benner h1{
+        font-size: 45px;
+    }
+    .benner h1::after{
+        width: 50px;
+        left: 385px;
+        bottom: 20px;
+        background: #ffffff;
+    }
+    .benner p{
+        font-size: 15px;
+        line-height: 16px;
+        text-align: justify;
+        padding-bottom: 20px;
+    }
+    .bennericon {
+        padding: 50px 0 50px;
+    }
+    .bennericon a {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+/* =========benner  section end ======  */
+
+/* =========about section start ======  */
+    .aboutheadline h2{
+        font-size: 30px;
+    }
+    .aboutheadline h2::after{
+        left: 160px;
+        bottom: 70px;
+    }
+    .aboutpoint {
+        padding: 60px 0 10px 10px;
+    }
+    .aboutpoint h5{
+        font-size: 16px;
+        padding-bottom: 6px;
+    }
+    .aboutpoint p{
+        font-size: 16px;
+        font-weight: 300;
+    }
+    .counteritem{
+        margin-bottom: 20px;
+    }
+    .counteritem h4{
+        font-size: 40px;
+    }
+    .counteritem h4 i{
+        font-size: 10px;
+    }
+    .counteritem h5{
+        font-size: 15px;
+    }
+
+/* =========about section end ======  */
+
+/* ======= popular section start===== */
+    .populer-right h2{
+        font-size: 30px;
+        top: -310px;
+
+    }
+    .populer-right h2::after{
+        right: 150px;
+    }
+    .popular-left img {
+        padding-top: 120px;
+    }
+    .populer-right{
+        margin-top: -260px;
+    }
+/* ======= popular section end===== */
+
+
+/* ======= Tournament section start===== */
+    .tournament{
+        padding: 0 50px;
+    }
+    .tournament img {
+        width: 100%;
+        height: 220px;
+        margin-bottom: 20px;
+    }
+
+    .team-item img {
+        width: 90%;
+        padding: 20px;
+    }
+/* ======= Tournament section end===== */
+
+/* ======= Sale-part section start===== */
+
+    .sale-item {
+        display: grid;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+/* ======= Sale-part section end===== */
+
+
+/* ======= Store part section start===== */
+    .all-products {
+        padding: 0 40px 80px;
+    }
+    .products {
+        margin-bottom: 50px;    
+    }
+
+    .products h3 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .products img {
+        width: 70%;
+    }
+/* ======= Store part section end===== */
+
+
+/* ======= Team section start===== */
+    .teamhead h2 {
+        font-size: 30px;
+        padding: 70px 0 70px 60px ;
+    }
+    .teamhead h2::after {
+        right: 150px;
+        bottom: 85px;
+    }
+
+    .team-overlay h4 {
+        font-size: 18px;
+        padding: 20px 0 10px 20px;
+    }
+    .team-overlay p {
+        font-size: 12px;
+        padding: 0px 0 0px 20px;
+    }
+
+/* ======= Team section end===== */
+
+
+/* ======= FAQ section start===== */
+    .faqheadline h2 {
+        font-size: 30px;
+    }
+    .faqheadline h2::after {
+        left: 290px;
+    }
+
+    .faq-number {
+        width: 10px;
+        height: 10px;
+        font-size: 10px;
+    }
+    .faq-question { 
+        font-size: 18px;
+        line-height: 1.1;
+    }
+    .faq-answer {
+        text-align: justify;
+    }
+/* ======= FAQ section end===== */
+
+
+/* ======= Footer section start===== */
+.footer {
+    margin: 0 10px;
+}
+.footer-top {
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+}
+.footer-top h3 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.search-input {
+    position: absolute;
+    width: 50%;
+    left: 12%;
+}
+.footer-buttom {
+    margin-left: 0px;
+    transition: all linear .4s;
+    position: absolute;
+}
+.footericon a {
+    font-size: 14px;
+    padding: 10px;
+}
+.footer-content p {
+    padding: 20px 50px 20px 0;
+}
+.footer-link-part{
+    padding: 50px 0;
+}
+
+/* ======= Footer section end===== */
+
+
+/* ======= Sale-part section start===== */
+/* ======= Sale-part section end===== */
+
+/* ======= Sale-part section start===== */
+/* ======= Sale-part section end===== */
+
+}
